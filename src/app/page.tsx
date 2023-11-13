@@ -23,7 +23,7 @@ export default function Home() {
 
         <div className="flex gap-2">
           <h2>Software Engineer</h2>
-          <h2>New York City (soon)</h2>
+          <h2>New York City</h2>
         </div>
       </div>
     </div>
