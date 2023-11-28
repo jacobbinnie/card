@@ -7,6 +7,12 @@ export default function Home() {
     <div className="bg-slate-200 h-screen flex justify-center items-center w-full tracking-tighter text-black ">
       <div className="fixed top-0 left-0 p-2 flex justify-end w-full">
         <div className="flex gap-2">
+          <a href="https://www.strava.com/athletes/jacobbinnie" target="_blank">
+            Strava
+          </a>
+          <a href="https://youtube.com/@jacobsucksatcode" target="_blank">
+            Youtube
+          </a>
           <a href="https://linkedin.com/in/jacobbinnie" target="_blank">
             Linkedin
           </a>
