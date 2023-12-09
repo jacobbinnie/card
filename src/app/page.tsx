@@ -13,6 +13,7 @@ export default function Home() {
           position: "absolute",
           top: 0,
           pointerEvents: "none",
+          height: "100vh",
         }}
       >
         <ShaderGradient
