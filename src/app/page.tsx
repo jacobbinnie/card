@@ -37,6 +37,9 @@ export default function Home() {
           <a href="https://github.com/jacobbinnie" target="_blank">
             Github
           </a>
+          <a href="https://instagram.com/binnie.jacob" target="_blank">
+            IG
+          </a>
         </div>
       </div>
 
