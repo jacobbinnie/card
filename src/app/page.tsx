@@ -35,11 +35,11 @@ export default function Home() {
           <a href="https://linkedin.com/in/jacobbinnie" target="_blank">
             Linkedin
           </a>
-          <a href="https://github.com/jacobbinnie" target="_blank">
-            Github
-          </a>
           <a href="https://instagram.com/binnie.jacob" target="_blank">
             IG
+          </a>
+          <a href="https://github.com/jacobbinnie" target="_blank">
+            Github
           </a>
         </div>
 
