@@ -26,6 +26,9 @@ export default function Home() {
           <a href="https://kiki.club/" target="_blank">
             Kiki
           </a>
+          <a href="https://instagram.com/binnie.jacob" target="_blank">
+            IG
+          </a>
           <a href="https://www.strava.com/athletes/jacobbinnie" target="_blank">
             Strava
           </a>
@@ -35,11 +38,12 @@ export default function Home() {
           <a href="https://linkedin.com/in/jacobbinnie" target="_blank">
             Linkedin
           </a>
-          <a href="https://instagram.com/binnie.jacob" target="_blank">
-            IG
-          </a>
+
           <a href="https://github.com/jacobbinnie" target="_blank">
             Github
+          </a>
+          <a href="https://www.twitter.com/jacobbinnie" target="_blank">
+            Twitter
           </a>
         </div>
 
