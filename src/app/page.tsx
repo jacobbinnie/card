@@ -23,8 +23,11 @@ export default function Home() {
       </ShaderGradientCanvas>
       <div className="fixed top-0 left-0 p-4 flex items-end w-full flex-col gap-2">
         <div className="flex gap-2">
-          <a href="https://kiki.club/" target="_blank">
-            Kiki
+          <a href="https://github.com/jacobbinnie" target="_blank">
+            Github
+          </a>
+          <a href="https://youtube.com/@jacobsucksatcode" target="_blank">
+            Youtube
           </a>
           <a href="https://instagram.com/binnie.jacob" target="_blank">
             Instagram
@@ -32,14 +35,8 @@ export default function Home() {
           <a href="https://www.strava.com/athletes/jacobbinnie" target="_blank">
             Strava
           </a>
-          <a href="https://youtube.com/@jacobsucksatcode" target="_blank">
-            Youtube
-          </a>
           <a href="https://linkedin.com/in/jacobbinnie" target="_blank">
             Linkedin
-          </a>
-          <a href="https://github.com/jacobbinnie" target="_blank">
-            Github
           </a>
           <a href="https://www.x.com/jacobbinnie" target="_blank">
             X
@@ -47,11 +44,11 @@ export default function Home() {
         </div>
 
         <a
-          className="bg-slate-100 bg-opacity-20 px-2 py-1 rounded-xl"
+          className="bg-slate-100 bg-opacity-20 px-3 py-1 rounded-xl"
           href="mailto:collab@jacobbinnie.com"
           target="_blank"
         >
-          Email (business enquiries only)
+          Email (biz only)
         </a>
       </div>
 
