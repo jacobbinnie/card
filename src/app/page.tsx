@@ -34,7 +34,7 @@ export default function Home() {
             Youtube
           </a>
           <a href="https://instagram.com/binnie.jacob" target="_blank">
-            Instagram
+            IG
           </a>
           <a href="https://www.strava.com/athletes/jacobbinnie" target="_blank">
             Strava
