@@ -23,7 +23,7 @@ export default function Home() {
         />
       </ShaderGradientCanvas>
       <div className="fixed top-0 left-0 p-4 flex items-end w-full flex-col gap-2">
-        <div className="flex gap-2">
+        <div className="flex justify-end gap-2 flex-wrap">
           <a href="https://github.com/jacobbinnie" target="_blank">
             Github
           </a>
@@ -31,7 +31,7 @@ export default function Home() {
             Youtube
           </a>
           <a href="https://instagram.com/binnie.jacob" target="_blank">
-            IG
+            Instagram
           </a>
           <a href="https://www.strava.com/athletes/jacobbinnie" target="_blank">
             Strava
@@ -42,23 +42,25 @@ export default function Home() {
           <a href="https://www.x.com/jacobbinnie" target="_blank">
             X
           </a>
+          <a
+            className="text-no-wrap"
+            href="https://tailwindanimations.co"
+            target="_blank"
+          >
+            Tailwind Animations
+          </a>
         </div>
-
-        <a
-          className="bg-slate-100 bg-opacity-20 px-3 py-1 rounded-xl"
-          href="mailto:collab@jacobbinnie.com"
-          target="_blank"
-        >
-          Email (biz only)
-        </a>
       </div>
 
-      <div className="fixed bottom-0 left-0 p-4 flex justify-between w-full">
+      <div className="fixed bottom-0 left-0 p-4 flex justify-between items-end w-full">
         <h1>Jacob Binnie</h1>
 
-        <div className="flex gap-2">
-          <h2>Software Engineer</h2>
-          <h2>New York City</h2>
+        <div className="flex flex-col items-end gap-2">
+          <a href="mailto:collab@jacobbinnie.com">collab@jacobbinnie.com</a>
+          <div className="flex gap-2">
+            <h2>Software Engineer</h2>
+            <h2>New York City</h2>
+          </div>
         </div>
       </div>
     </div>
