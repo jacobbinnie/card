@@ -24,6 +24,9 @@ export default function Home() {
       </ShaderGradientCanvas>
       <div className="fixed top-0 left-0 p-4 flex items-end w-full flex-col gap-2">
         <div className="flex justify-end gap-2 flex-wrap">
+          <a href="https://subbb.me" target="_blank">
+            Subbb.me
+          </a>
           <a href="https://github.com/jacobbinnie" target="_blank">
             Github
           </a>
