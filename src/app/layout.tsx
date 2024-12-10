@@ -8,8 +8,8 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Jacob Binnie | Software Engineer",
-  description: "New York City",
+  title: "Jacob Binnie | Senior Software Engineer",
+  description: "London, UK",
   icons: {
     icon: "/icon.png",
   },
